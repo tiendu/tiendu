@@ -9,7 +9,7 @@ Feel free to browse through my repositories, contributions, and projects!
 - **Gommitizen**: A Go-based implementation of [Commitizen](https://commitizen-tools.github.io/commitizen/) for automating the generation of conventional commit messages, which helps streamline the release process and maintain a consistent commit history.
 - **gentr**: A tool to execute commands, inspired by [entr](https://github.com/eradman/entr) when files change, implemented in Go. It is designed for automating tasks like re-running tests or restarting services, enhancing the development workflow.
 
-Check out my [projects](https://github.com/tiendu) and contribute!
+Check out my other projects and contribute!
 
 ---
 
