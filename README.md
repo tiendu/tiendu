@@ -34,7 +34,7 @@ Check out my [projects](https://github.com/tiendu) and contribute!
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - ![Podman](https://img.shields.io/badge/Podman-6A6A6A?style=flat&logo=podman&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-- ![Fish Shell](https://img.shields.io/badge/Fish%20Shell-4A6E6F?style=flat&logo=fish&logoColor=white)
+- ![Fish Shell](https://img.shields.io/badge/Fish-4A6E6F?style=flat&logo=Fish%20Shell&logoColor=white)
 - ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
 #### **Bioinformatics Expertise:**
