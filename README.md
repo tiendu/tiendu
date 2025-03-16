@@ -9,15 +9,7 @@ Feel free to browse through my repositories, contributions, and projects!
 - **Gommitizen**: A Go-based implementation of [Commitizen](https://commitizen-tools.github.io/commitizen/) for automating the generation of conventional commit messages, which helps streamline the release process and maintain a consistent commit history.
 - **gentr**: A tool to execute commands, inspired by [entr](https://github.com/eradman/entr) when files change, implemented in Go. It is designed for automating tasks like re-running tests or restarting services, enhancing the development workflow.
 
-Check out my other projects and contribute!
-
----
-
-### 📈 **GitHub Stats**
-
-![Visitor Count](https://profile-counter.glitch.me/tiendu/count.svg)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=tiendu&theme=highcontrast&show_icons=true&count_private=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
+Explore my [repositories](https://github.com/tiendu) to see more of my work!
 
 ---
 
@@ -36,6 +28,7 @@ Check out my other projects and contribute!
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 - ![Fish Shell](https://img.shields.io/badge/Fish-4A6E6F?style=flat&logo=Fish%20Shell&logoColor=white)
 - ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+- **Dotfiles**: Check out my [dotfiles repository](https://github.com/tiendu/dotfiles) for my configuration files and tool setups.
 
 #### **Bioinformatics Expertise:**
 - Bioinformatics Platforms
@@ -45,10 +38,27 @@ Check out my other projects and contribute!
 
 ---
 
+### 📈 **GitHub Stats**
+
+![Visitor Count](https://profile-counter.glitch.me/tiendu/count.svg)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=tiendu&theme=highcontrast&show_icons=true&count_private=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
+
+---
+
 ### 💬 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiendu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/tiendu107)
+
+---
+
+### Donations
+
+If you appreciate my work and would like to support me, feel free to buy me a coffee!
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/tiendu)
 
-I would love to collaborate on exciting projects, so don't hesitate to reach out!
+---
+
+Feel free to reach out or collaborate on any exciting projects!
