@@ -21,6 +21,7 @@ Explore my [repositories](https://github.com/tiendu) to see more of my work!
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+- ![Nextflow](https://img.shields.io/badge/Nextflow-2D6B3F?style=flat&logo=Nextflow&logoColor=white)
 
 #### **Tools & Platforms:**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
