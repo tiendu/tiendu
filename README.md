@@ -4,7 +4,7 @@ Feel free to browse through my repositories, contributions, and projects!
 
 ---
 
-### 🚀 **Projects**
+## 🚀 **Projects**
 
 - **Gommitizen**: A Go-based implementation of [Commitizen](https://commitizen-tools.github.io/commitizen/) for automating the generation of conventional commit messages, which helps streamline the release process and maintain a consistent commit history.
 - **gentr**: A tool to execute commands, inspired by [entr](https://github.com/eradman/entr) when files change, implemented in Go. It is designed for automating tasks like re-running tests or restarting services, enhancing the development workflow.
@@ -13,9 +13,9 @@ Explore my [repositories](https://github.com/tiendu) to see more of my work!
 
 ---
 
-### 💻 **Tech Stack & Skills**
+## 💻 **Tech Stack & Skills**
 
-#### **Languages & Frameworks:**
+### **Languages & Frameworks:**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -23,7 +23,7 @@ Explore my [repositories](https://github.com/tiendu) to see more of my work!
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 - ![Nextflow](https://img.shields.io/badge/Nextflow-2D6B3F?style=flat&logo=Nextflow&logoColor=white)
 
-#### **Tools & Platforms:**
+### **Tools & Platforms:**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - ![Podman](https://img.shields.io/badge/Podman-6A6A6A?style=flat&logo=podman&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -32,7 +32,7 @@ Explore my [repositories](https://github.com/tiendu) to see more of my work!
 
 **Dotfiles**: Check out my [dotfiles repository](https://github.com/tiendu/dotfiles) for my configuration files and tool setups.
 
-#### **Bioinformatics Expertise:**
+### **Bioinformatics Expertise:**
 - Bioinformatics Platforms
 - Genomics & Metagenomics
 - LC-MS-based Proteomics
@@ -40,7 +40,7 @@ Explore my [repositories](https://github.com/tiendu) to see more of my work!
 
 ---
 
-### 📈 **GitHub Stats**
+## 📈 **GitHub Stats**
 
 ![Visitor Count](https://profile-counter.glitch.me/tiendu/count.svg)
 
@@ -48,14 +48,14 @@ Explore my [repositories](https://github.com/tiendu) to see more of my work!
 
 ---
 
-### 💬 **Connect with Me**
+## 💬 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiendu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/tiendu107)
 
 ---
 
-### Donations
+## Donations
 
 If you appreciate my work and would like to support me, feel free to buy me a coffee!
 
