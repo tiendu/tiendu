@@ -44,6 +44,6 @@ With roots in medicine, biotech, and systems engineering, I build infrastructure
 
 ---
 
-## 📈 **GitHub Stats**Add commentMore actions
+## 📈 **GitHub Stats**
 
 ![Visitor Count](https://profile-counter.glitch.me/tiendu/count.svg)
