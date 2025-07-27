@@ -41,9 +41,3 @@ With roots in medicine, biotech, and systems engineering, I build infrastructure
 ## 🌐 Connect
 
 [LinkedIn](https://www.linkedin.com/in/tiendu) • [GitHub](https://github.com/tiendu) • [Email](mailto:tiendu107@gmail.com) • [Buy Me a Coffee](https://www.buymeacoffee.com/tiendu)
-
----
-
-## 📈 **GitHub Stats**
-
-![Visitor Count](https://profile-counter.glitch.me/tiendu/count.svg)
