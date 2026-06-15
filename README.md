@@ -37,6 +37,9 @@ Currently open to remote bioinformatics engineering, workflow engineering, platf
 
 ## Featured Projects
 
+- [**depviz**](https://github.com/tiendu/depviz)  
+  CLI tool for inspecting PyPI and Conda/Bioconda dependency graphs, with blast-radius analysis, impact reports, ASCII trees, and graph caching.
+
 - [**Gommitizen**](https://github.com/tiendu/gommitizen)  
   Go-based CLI tool for semantic commits and changelog automation.
 
