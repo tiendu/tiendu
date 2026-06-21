@@ -1,85 +1,94 @@
 # Hi, I'm Tien
 
-I am a bioinformatics engineer focused on genomics workflows, cloud reliability, and practical engineering for data-intensive research systems.
+I am a platform operations engineer working across Linux, cloud infrastructure, distributed workloads, monitoring, automation, and production troubleshooting.
 
-I help teams make scientific workflows more reliable, reproducible, and easier to operate. My work sits between bioinformatics, infrastructure, and production support: debugging pipelines, improving runtime behavior, building automation, validating data, and turning fragile scripts into maintainable tools.
+I build tools for inspecting systems, diagnosing failures, reducing operational overhead, and making services easier to run and maintain.
 
-I have worked with large-scale genomics and research workloads across DNAnexus, AWS, Google Cloud, HPC, SLURM, Docker/Podman, Spark, and Nextflow environments.
+My background is in scientific computing and data-intensive platforms, where I have worked with AWS, Google Cloud, DNAnexus, Apache Beam, Spark, Slurm, Docker, systemd, and HPC environments.
 
-Currently open to remote bioinformatics engineering, workflow engineering, platform engineering, and scientific infrastructure roles.
+Currently open to platform operations, cloud operations, production support, systems engineering, technical support engineering, and scientific infrastructure roles.
 
 ---
 
 ## What I Work On
 
-- Genomics and bioinformatics workflow engineering
-- Pipeline debugging, reproducibility, and production support
-- Cloud and HPC workflow execution
-- CLI tools, automation scripts, and developer tooling
-- Data validation, reporting, and operational diagnostics
-- Infrastructure-aware workflow optimization
+- Linux service and process monitoring
+- Production incident investigation and root-cause analysis
+- Cloud workload troubleshooting across AWS and GCP
+- Automation with Python, Bash, Go, and Rust
+- Distributed runtime and dependency diagnostics
+- Systemd services, structured logging, metrics, and health checks
+- Resource usage, reliability, and cloud cost optimisation
+- Operational runbooks and reproducible failure investigation
 
 ---
 
 ## Technical Focus
 
-**Languages:** Python, Rust, Go, JavaScript/TypeScript, Bash, SQL
+**Systems & Reliability:** Linux/Unix, systemd, cgroups, process trees, `/proc`, CPU, memory, disk I/O, file descriptors, TCP/UDP, Unix sockets, incident investigation
 
-**Bioinformatics:** NGS workflows, GWAS, RNA-seq, scRNA-seq, long-read sequencing, metagenomics, microbiome analysis, somatic variant annotation, large-scale cohort analysis
+**Cloud & Infrastructure:** AWS, Google Cloud Platform, IAM and permissions, cloud compute and storage, Terraform/OpenTofu, Docker/Podman
 
-**Workflow & Compute:** DNAnexus, Nextflow DSL2, Spark, HPC, SLURM, Docker/Podman, Linux
+**Monitoring & Operations:** OpenMetrics, structured JSON logs, HTTP health checks, runtime diagnostics, process monitoring, resource thresholds, operational runbooks
 
-**Cloud & Infrastructure:** AWS, Google Cloud Platform, Terraform/OpenTofu, K3s/K0s, Kubernetes fundamentals, Helm, Splunk
+**Distributed Systems:** Apache Beam, Spark, Slurm, HPC, DNAnexus, Nextflow, batch execution, job scheduling, worker/runtime troubleshooting
 
-**Automation & Tooling:** Makefile, justfile, shell scripting, CLI tooling, GitHub Actions, workflow diagnostics, data validation
+**Languages & Tooling:** Python, Bash, Go, Rust, SQL, Git, GitHub Actions, Makefile, REST APIs, CLI development
 
 ---
 
 ## Featured Projects
 
-- [**depviz**](https://github.com/tiendu/depviz)  
-  CLI tool for inspecting PyPI and Conda/Bioconda dependency graphs, with blast-radius analysis, impact reports, ASCII trees, and graph caching.
+### [RunWatch](https://github.com/tiendu/runwatch)
 
-- [**Gommitizen**](https://github.com/tiendu/gommitizen)  
-  Go-based CLI tool for semantic commits and changelog automation.
+A Linux service and process monitor written in Python.
 
-- [**gentr**](https://github.com/tiendu/gentr)  
-  Lightweight file watcher for automatically running commands when files change.
+RunWatch can inspect systemd services, process trees, cgroups, CPU, memory, disk I/O, file descriptors, network connections, Unix sockets, and HTTP endpoints.
 
-- [**dotfiles**](https://github.com/tiendu/dotfiles)  
-  Terminal-first development setup with shell, Neovim, and Tmux configuration.
+### [depviz](https://github.com/tiendu/depviz)
+
+A dependency-risk and upgrade-impact inspection tool for PyPI and Conda/Bioconda environments.
+
+It traces transitive dependencies, explains package relationships, estimates upgrade blast radius, identifies environment conflicts, renders dependency trees, and caches repeatable analysis results.
+
+### [gentr](https://github.com/tiendu/gentr)
+
+A lightweight Go command runner that watches files and reruns commands when changes occur.
+
+Supports recursive watching, glob and standard-input selection, configurable output handling, exit-code propagation, testing, and installation tooling.
+
+### [Gommitizen](https://github.com/tiendu/gommitizen)
+
+A Go CLI for semantic commits and changelog automation.
+
+### [dotfiles](https://github.com/tiendu/dotfiles)
+
+My terminal-first Linux development environment, including shell, Neovim, and Tmux configuration.
 
 ---
 
-## Recent Areas of Work
+## How I Think About Operations
 
-- Supporting large-scale genomics workflows at 10,000+ sample scale
-- Debugging workflow failures across compute, storage, orchestration, and data movement layers
-- Reducing recurring cloud compute costs through workflow and resource optimization
-- Rewriting performance-critical tooling from Python to Rust
-- Building reproducible diagnostics and operational notes for recurring platform issues
-- Improving workflow reliability across cloud, HPC, and containerized environments
+Reliable systems are not defined by whether they work once.
 
----
+They should be:
 
-## How I Think About Engineering
+* observable
+* reproducible
+* easy to inspect
+* safe to operate
+* predictable under failure
+* explicit about limitations
+* recoverable when deployment goes wrong
+* understandable by the next engineer
 
-Good scientific software is not just code that runs once.
-
-It should be:
-
-- reproducible
-- observable
-- cost-aware
-- easy to debug
-- easy to rerun
-- safe to operate
-- understandable by the next person
-
-I care about the boring engineering work that keeps research workflows alive after the first successful run.
+I like the engineering work that happens between "the code runs" and "the system can be trusted."
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/tiendu) · [GitHub](https://github.com/tiendu) · [Email](mailto:tiendu107@gmail.com) · [Buy Me a Coffee](https://www.buymeacoffee.com/tiendu)
+[LinkedIn](https://www.linkedin.com/in/tiendu) ·
+[GitHub](https://github.com/tiendu) ·
+[Email](mailto:tiendu107@gmail.com) ·
+[Buy Me a Coffee](https://www.buymeacoffee.com/tiendu)
