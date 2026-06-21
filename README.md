@@ -1,6 +1,6 @@
 # Hi, I'm Tien
 
-I am a platform operations engineer working across Linux, cloud infrastructure, distributed workloads, monitoring, automation, and production troubleshooting.
+I work in platform operations, with a focus on Linux, cloud infrastructure, distributed workloads, monitoring, automation, and production troubleshooting.
 
 I build tools for inspecting systems, diagnosing failures, reducing operational overhead, and making services easier to run and maintain.
 
